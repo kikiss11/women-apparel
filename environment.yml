@@ -1,0 +1,15 @@
+name: women-apparel
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - flask=2.3.3
+  - requests=2.31.0
+  - pytorch-cpu=2.5.1
+  - transformers=4.35.0
+  - plotly=5.17.0
+  - pandas=2.1.3
+  - kaleido=0.2.1
+  - numpy=1.24.3
+  - gunicorn=21.2.0
