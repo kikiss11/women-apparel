@@ -1,7 +1,6 @@
---upgrade pip
 Flask==2.3.3
 requests==2.31.0
-torch==2.5.1
+torch==2.5.1+cpu
 transformers==4.35.0
 plotly==5.17.0
 pandas==2.1.3
